@@ -1,0 +1,5 @@
+This theme is a premium dark-mode presentation theme.
+The screenshot should be a 1200x900 graphic representing the theme.
+Background: Dark navy/grey (#0a0a0f)
+Accent: Elegant Gold (#c9a44a)
+Visuals: A blurred modern tech aesthetic or a sleek minimal dark web page with a large bold header, gold CTA button, and 3-column dark cards for portfolio items.

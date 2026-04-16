@@ -1,0 +1,14 @@
+/*
+Theme Name: Obsidian
+Theme URI: https://wxza.net
+Author: Loic Hazoume
+Author URI: https://wxza.net
+Description: A premium dark-mode WordPress theme for creative professionals and tech companies. Features custom page templates, widget areas, and full Customizer integration.
+Version: 1.0.0
+Requires PHP: 7.4
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: obsidian
+*/
+
+/* Variables will be injected dynamically via wp_head from Customizer */
